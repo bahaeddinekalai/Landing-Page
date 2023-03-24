@@ -14,3 +14,4 @@ To view the landing page, simply open the `index.html` file in your web browser.
 ## Acknowledgements
 
 - [The Odin Project](https://www.theodinproject.com/) for providing the project requirements and guidelines.
+- [Hans Veth](https://unsplash.com/@hans_veth) for providing the images used in the project. These images were downloaded from [Unsplash](https://unsplash.com/) and will enhance the visual appeal of the landing page.
