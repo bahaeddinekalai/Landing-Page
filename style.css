@@ -77,3 +77,42 @@ a {
   height: 340px;
   width: auto;
 }
+
+/*main-content*/
+
+.main-content,
+.info-section {
+  display: flex;
+  flex-direction: column;
+}
+.images {
+  display: flex;
+  justify-content: center;
+  padding: 30px 100px;
+}
+
+.info-main-text {
+  margin-top: 50px;
+  color: #1f2937;
+  text-align: center;
+  font-size: 36px;
+  font-weight: 800;
+}
+.image {
+  display: flex;
+  flex-direction: column;
+}
+.image div {
+  color: gray;
+  text-align: center;
+  margin-top: 20px;
+}
+
+.image img {
+  border-radius: 10px;
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+  align-self: center;
+  border: 4px solid #3882f6;
+}
