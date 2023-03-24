@@ -1,0 +1,45 @@
+/*body*/
+body {
+  background-color: #fff;
+  font-family: "Roboto", sans-serif;
+  display: flex;
+  flex-direction: column;
+  margin: 0;
+  padding: 0;
+}
+img {
+  height: 200px;
+  width: auto;
+}
+ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+a {
+  text-decoration: none;
+  font-size: 18px;
+  color: #e5e7eb;
+}
+.logo {
+  font-size: 24px;
+  color: #f9faf8;
+  font-weight: bold;
+}
+
+/*Header Section*/
+.header {
+  background-color: #1f2937;
+}
+.navbar{
+    display: flex;
+    justify-content: space-around;
+    padding: 40px;
+}
+.links{
+    display: flex;
+    gap: 30px;
+    
+}
+
+
