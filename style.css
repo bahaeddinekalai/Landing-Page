@@ -90,7 +90,7 @@ a {
   justify-content: center;
   padding: 30px 100px;
 }
-
+/*main-content/info-section*/
 .info-main-text {
   margin-top: 50px;
   color: #1f2937;
@@ -116,7 +116,7 @@ a {
   align-self: center;
   border: 4px solid #3882f6;
 }
-
+/*main-content/quote-section*/
 .quote-section {
   background-color: #e5e7eb;
   display: flex;
