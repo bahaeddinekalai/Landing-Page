@@ -31,15 +31,49 @@ a {
 .header {
   background-color: #1f2937;
 }
-.navbar{
-    display: flex;
-    justify-content: space-around;
-    padding: 40px;
+.navbar {
+  display: flex;
+  justify-content: space-around;
+  padding: 40px;
 }
-.links{
-    display: flex;
-    gap: 30px;
-    
+.links {
+  display: flex;
+  gap: 30px;
 }
 
+/*hero-header*/
 
+.hero-header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 50px 220px;
+}
+.hero-content {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  flex-wrap: wrap;
+}
+.hero-main-text {
+  color: #f9faf8;
+  font-size: 48px;
+  font-weight: 800;
+}
+.hero-secondary-text {
+  font-size: 18px;
+  color: #f9faf8;
+}
+.hero-button {
+  color: #f9faf8;
+  background-color: #3882f6;
+  font-size: 18px;
+  font-weight: 600;
+  border: 0;
+  border-radius: 5px;
+  padding: 10px 24px;
+}
+.hero-header img {
+  height: 340px;
+  width: auto;
+}
