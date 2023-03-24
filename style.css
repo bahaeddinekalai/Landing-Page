@@ -174,3 +174,17 @@ a {
   border-radius: 5px;
   padding: 7px 20px;
 }
+
+/*footer*/
+
+.footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #1f2937;
+  height: 70px;
+}
+.footer-text {
+  font-size: 18px;
+  color: #fff;
+}
